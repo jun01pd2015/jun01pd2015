@@ -1,3 +1,2 @@
-#Interdisciplinary Major in AI
-#KoreaUniv
-#Hello World!
+Study: On Going...
+Research Interest: Image Processing, Health Care, etc
